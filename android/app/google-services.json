@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "822876935877",
+    "project_id": "blueberrynew",
+    "storage_bucket": "blueberrynew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822876935877:android:002790e0b5764c668cc2ac",
+        "android_client_info": {
+          "package_name": "com.example.blueberry"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9p5yKhdMPHY7gANTSnXLg47FnUIc_GJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
